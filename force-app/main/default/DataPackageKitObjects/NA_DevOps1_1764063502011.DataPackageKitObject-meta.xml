@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataPackageKitObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>NA_DevOps1</masterLabel>
+    <parentDataPackageKitDefinitionName>NA_DevOps1</parentDataPackageKitDefinitionName>
+    <referenceObjectName>NAM_count_max_created_date</referenceObjectName>
+    <referenceObjectType>DataCalcInsightTemplate</referenceObjectType>
+</DataPackageKitObject>
