@@ -9,7 +9,7 @@
     <developerName>NAM_count_max_created_date</developerName>
     <expression>SELECT
   COUNT(NAM_Account__dlm.CreatedDate__c) AS created_count__c,
-  MAX(NAM_Account__dlm.CreatedDate__c) AS max_creatd_date__c
+  MIN(NAM_Account__dlm.CreatedDate__c) AS max_creatd_date__c
 FROM NAM_Account__dlm</expression>
     <masterLabel>count_max_created date</masterLabel>
     <scheduleInterval>0</scheduleInterval>
