@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataPackageKitDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataKitSource>LOCAL</dataKitSource>
+    <dataKitType>SANDBOX</dataKitType>
+    <dataSpaceDefinitionDevName>North_America</dataSpaceDefinitionDevName>
+    <deploymentOrder>{&quot;isAutoSequence&quot;:true,&quot;sequence&quot;:[{&quot;devName&quot;:&quot;NAM_count_max_created_date1&quot;,&quot;type&quot;:&quot;DataCalcInsightTemplate&quot;}]}</deploymentOrder>
+    <developerName>NA_DevOps_2</developerName>
+    <isDeployed>false</isDeployed>
+    <isEnabled>false</isEnabled>
+    <masterLabel>NA DevOps 2</masterLabel>
+    <useDeterministicNaming>false</useDeterministicNaming>
+    <versionNumber>2.0</versionNumber>
+</DataPackageKitDefinition>

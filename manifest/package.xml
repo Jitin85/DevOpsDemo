@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>NAM_count_max_created_date</members>
+        <members>NAM_count_max_created_date1</members>
         <name>DataCalcInsightTemplate</name>
     </types>
     <types>
-        <members>NA_DevOps1</members>
+        <members>NA_DevOps_2</members>
         <name>DataPackageKitDefinition</name>
     </types>
     <types>
-        <members>NA_DevOps1_1764063502011</members>
+        <members>NA_DevOps_2_1764063585100</members>
         <name>DataPackageKitObject</name>
     </types>
     <version>65.0</version>
